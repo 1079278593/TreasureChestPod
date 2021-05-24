@@ -9,4 +9,6 @@
 
 @interface TreasureChestPod : NSObject
 
++(void)test;
+
 @end

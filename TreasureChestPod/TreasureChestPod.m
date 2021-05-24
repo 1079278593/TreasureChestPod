@@ -9,4 +9,8 @@
 
 @implementation TreasureChestPod
 
++(void)test {
+    NSLog(@"hello world");
+}
+
 @end
